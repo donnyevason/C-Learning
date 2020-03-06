@@ -1,0 +1,11 @@
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\bin\Debug\netcoreapp3.1\Lesson2Task.exe
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\bin\Debug\netcoreapp3.1\Lesson2Task.deps.json
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\bin\Debug\netcoreapp3.1\Lesson2Task.runtimeconfig.json
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\bin\Debug\netcoreapp3.1\Lesson2Task.runtimeconfig.dev.json
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\bin\Debug\netcoreapp3.1\Lesson2Task.dll
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\bin\Debug\netcoreapp3.1\Lesson2Task.pdb
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\obj\Debug\netcoreapp3.1\Lesson2Task.csprojAssemblyReference.cache
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\obj\Debug\netcoreapp3.1\Lesson2Task.AssemblyInfoInputs.cache
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\obj\Debug\netcoreapp3.1\Lesson2Task.AssemblyInfo.cs
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\obj\Debug\netcoreapp3.1\Lesson2Task.dll
+C:\Users\donny.evason\source\repos\ConsoleApp1\Lesson2Task\obj\Debug\netcoreapp3.1\Lesson2Task.pdb
