@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\donny.evason\\.nuget\\packages\\": {}
+    "C:\\Users\\Donny\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\donny.evason\\source\\repos\\ConsoleApp1\\Project1\\Project1.csproj",
+      "projectUniqueName": "C:\\Users\\Donny\\source\\repos\\Project1\\Project1\\Project1.csproj",
       "projectName": "Project1",
-      "projectPath": "C:\\Users\\donny.evason\\source\\repos\\ConsoleApp1\\Project1\\Project1.csproj",
-      "packagesPath": "C:\\Users\\donny.evason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\donny.evason\\source\\repos\\ConsoleApp1\\Project1\\obj\\",
+      "projectPath": "C:\\Users\\Donny\\source\\repos\\Project1\\Project1\\Project1.csproj",
+      "packagesPath": "C:\\Users\\Donny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Donny\\source\\repos\\Project1\\Project1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\donny.evason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Donny\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
